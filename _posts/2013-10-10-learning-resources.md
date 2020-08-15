@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Learning Resources"
-author: "Paul Le"
+author: "Annabelle Montoya"
 categories: journal
 tags: [documentation,sample]
 image: spools.jpg

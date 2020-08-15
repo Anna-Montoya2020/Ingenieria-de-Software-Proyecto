@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "About the Author"
-author: "Annabelle Montoya"
+author: "Annabelle Montoya L"
 categories: journal
 tags: [documentation,sample]
 image: cutting.jpg
