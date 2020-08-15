@@ -3,7 +3,11 @@
 La Ingenierıa de Software concierne a teorıas, metodos y herramientas para el desarrollo profesional de software.
 
 
+<<<<<<< HEAD
 ![alt text](https://prod-discovery.edx-cdn.org/media/course/image/0785d834-7f3d-4f56-9fcd-41255e67823c-544c50b565a0.small.jpg "Ingenieria Demo Image")
+=======
+![alt text](https://prod-discovery.edx-cdn.org/media/course/image/0785d834-7f3d-4f56-9fcd-41255e67823c-544c50b565a0.small.jpg "Ingenireria Demo Image")
+>>>>>>> 8ae81665f0522622b8b283b1e2948ebdc8d561a6
 
 ## Notable features
 
@@ -22,16 +26,12 @@ La Ingenierıa de Software concierne a teorıas, metodos y herramientas para el 
 ## Table of Contents
 [Unidad I: Introducción a la ingeniería de software](#Unidad-I:-Introducción-a-la-ingeniería-de-software)
 1. [ Fundamentos a la Ingeniería de Software](#Fundamentos-a-la-Ingeniería-de-Software)
-
 2. [Proceso de Ingeniería de software](#Proceso-de-Ingeniería-de-software)
-
 3. [Sistemas de información](#sistemas-de-informacion)
 
 [Unidad II: Modelos de procesos de software](#Unidad-II:-Modelos-de-procesos-de-software)
    1. [Proceso del software](#Proceso-del-software)
-
    2. [El ciclo de vida del Software](#El-ciclo-de-vida-del-Software)
-
    3. [Modelos de desarrollo: tradicionales vs alternativos](#Modelos-de-desarrollo:-tradicionales-vs-alternativos)
 
 3. [Configuration](#configuration)
