@@ -20,9 +20,9 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Lagrange'
-description:	       'a minimalist Jekyll theme'
-author:              'Paul Le'
+title:		           'Introduccion Ingenieria de Software'
+description:	       'Presentar contenido sobre los principios y guías de la ingeniería en software, presentación de metodologías y fases y conceptos para llevar un buen funcionamiento al momento de querer desarrollar y generar un sistema.'
+author:              'Montoya Lainez Annabelle'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
