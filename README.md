@@ -5,11 +5,6 @@ La Ingenierıa de Software concierne a teorıas, metodos y herramientas para el 
 
 <<<<<<< HEAD
 ![alt text](https://prod-discovery.edx-cdn.org/media/course/image/0785d834-7f3d-4f56-9fcd-41255e67823c-544c50b565a0.small.jpg "Ingenieria Demo Image")
-=======
-![alt text](https://prod-discovery.edx-cdn.org/media/course/image/0785d834-7f3d-4f56-9fcd-41255e67823c-544c50b565a0.small.jpg "Ingenireria Demo Image")
->>>>>>> 8ae81665f0522622b8b283b1e2948ebdc8d561a6
-
-## Notable features
 
 * Compatible with GitHub Pages.
 
