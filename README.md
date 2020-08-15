@@ -3,7 +3,7 @@
 La Ingenierıa de Software concierne a teorıas, metodos y herramientas para el desarrollo profesional de software.
 
 
-![alt text](https://user-images.githubusercontent.com/8409329/32631384-17107870-c56e-11e7-932f-deeb7c12e4db.png "Lagrange Demo Image")
+![alt text](https://prod-discovery.edx-cdn.org/media/course/image/0785d834-7f3d-4f56-9fcd-41255e67823c-544c50b565a0.small.jpg "Ingenieria Demo Image")
 
 ## Notable features
 
@@ -20,15 +20,20 @@ La Ingenierıa de Software concierne a teorıas, metodos y herramientas para el 
 * LaTeX support through [MathJax](https://www.mathjax.org/).
 
 ## Table of Contents
+[Unidad I: Introducción a la ingeniería de software](#Unidad-I:-Introducción-a-la-ingeniería-de-software)
+1. [ Fundamentos a la Ingeniería de Software](#Fundamentos-a-la-Ingeniería-de-Software)
 
-1. [Unidad I: Introducción a la ingeniería de software](#Unidad-I:-Introducción-a-la-ingeniería-de-software)
-   1. [ Fundamentos a la Ingeniería de Software](#what-is-jekyll)
-   2. [Proceso de Ingeniería de software](#never-used-jekyll-before)
-   3. [Sistemas de información](#sistemas-de-informacion)
-2. [Unidad II: Modelos de procesos de software](#Unidad-II:-Modelos-de-procesos-de-software)
+2. [Proceso de Ingeniería de software](#Proceso-de-Ingeniería-de-software)
+
+3. [Sistemas de información](#sistemas-de-informacion)
+
+[Unidad II: Modelos de procesos de software](#Unidad-II:-Modelos-de-procesos-de-software)
    1. [Proceso del software](#Proceso-del-software)
+
    2. [El ciclo de vida del Software](#El-ciclo-de-vida-del-Software)
+
    3. [Modelos de desarrollo: tradicionales vs alternativos](#Modelos-de-desarrollo:-tradicionales-vs-alternativos)
+
 3. [Configuration](#configuration)
    1. [Sample Posts](#sample-posts)
    2. [Site Variables](#site-variables)
@@ -53,7 +58,7 @@ La Ingenierıa de Software concierne a teorıas, metodos y herramientas para el 
 
 ## Introduction
 
-Lagrange is a Jekyll theme that was built to be 100% compatible with [GitHub Pages](https://pages.github.com/). If you are unfamiliar with GitHub Pages, you can check out [their documentation](https://help.github.com/categories/github-pages-basics/) for more information. [Jonathan McGlone's guide](http://jmcglone.com/guides/github-pages/) on creating and hosting a personal site on GitHub is also a good resource.
+Presentar contenido sobre los principios y guías de la ingeniería en software, presentación de metodologías y fases y conceptos para llevar a cabo un buen funcionamiento al momento de querer desarrollar y generar un sistema.
 
 ### What is Jekyll?
 

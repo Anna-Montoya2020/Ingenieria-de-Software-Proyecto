@@ -21,7 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Introduccion Ingenieria de Software'
-description:	       'Presentar contenido sobre los principios y guías de la ingeniería en software, presentación de metodologías y fases y conceptos para llevar un buen funcionamiento al momento de querer desarrollar y generar un sistema.'
+description:	       'Fundamentos y metodologias.'
 author:              'Montoya Lainez Annabelle'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
