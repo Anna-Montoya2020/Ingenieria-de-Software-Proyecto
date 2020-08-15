@@ -7,11 +7,17 @@ tags: [documentation,sample]
 image: forest.jpg
 ---
 
-# Lagrange
+# Ingenieria Software
+Disciplina de la Ingenier´ıa que concierne a todos los aspectos de la producci´on de software.
+Deben:
+  I Adoptar un enfoque sistem´atico para llevar a cabo su trabajo
+  I Utilizar las herramientas y t´ecnicas m´as apropiadas dependiendo
+     F del problema a resolver,
+     F las restricciones del desarrollo y
+     F los recursos disponibles.
 
-Lagrange is a minimalist Jekyll theme for running a personal blog or site for free through [Github Pages](https://pages.github.com/), or on your own server. Everything that you will ever need to know about this Jekyll theme is included in the README below, which you can also find in [the demo site](https://lenpaul.github.io/Lagrange/).
 
-![alt text](https://user-images.githubusercontent.com/8409329/32631384-17107870-c56e-11e7-932f-deeb7c12e4db.png "Lagrange Demo Image")
+![alt text](https://user-images.githubusercontent.com/8409329/32631384-17107870-c56e-11e7-932f-deeb7c12e4db.png "Ingenieria Demo Image")
 
 ## Notable features
 
