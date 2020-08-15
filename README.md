@@ -81,7 +81,7 @@ La Ingenierıa de Software concierne a teorıas, metodos y herramientas para el 
 8. [Credits](#credits)
 9. [License](#license)
 
-## Introduccion
+## Fundamentos a la Ingeniería de Software
 
 Presentar contenido sobre los principios y guías de la ingeniería en software, presentación de metodologías y fases y conceptos para llevar a cabo un buen funcionamiento al momento de querer desarrollar y generar un sistema.
 
