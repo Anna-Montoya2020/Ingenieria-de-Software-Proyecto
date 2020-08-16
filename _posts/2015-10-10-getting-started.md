@@ -6,6 +6,9 @@ categories: journal
 tags: [documentation,sample]
 image: ![alt text](https://micarrerauniversitaria.com/wp-content/uploads/2018/02/ent-software-businessman-ts-100539050-primary.idge_.jpg "Ingenieria Demo Image")
 
+---
+
+
 # Ingenieria Software
 
 Disciplina de la Ingeniería que concierne a todos los aspectos de la producción de software.
@@ -38,7 +41,8 @@ Adoptar un enfoque sistemático para llevar a cabo su trabajo
 
 2. [Proceso de Ingeniería de software](#Proceso-de-Ingeniería-de-software)
    
-   1.
+   1. [¿Qué es un proceso de software?] (#¿Qué-es-un-proceso-de-software?)
+
 
    2.
 
