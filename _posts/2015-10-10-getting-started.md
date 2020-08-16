@@ -36,54 +36,61 @@ Adoptar un enfoque sistem´atico para llevar a cabo su trabajo
 ## Table of Contents
 [Unidad I: Introducción a la ingeniería de software](#Unidad-I:-Introducción-a-la-ingeniería-de-software)
 1. [ Fundamentos a la Ingeniería de Software](#Fundamentos-a-la-Ingeniería-de-Software)
-   1.1. 
-   1.2.
-   1.3.
-   1.4.
-   1.5.
+   1. [Que es software?](#Que-es-software?)
+   1.
+   1.
+   1.
+   1.
 2. [Proceso de Ingeniería de software](#Proceso-de-Ingeniería-de-software)
-   1.1. 
-   1.2.
-   1.3.
-   1.4.
-   1.5.
+   1. 
+   1.
+   1.
+   1.
+   1.
+
 3. [Sistemas de información](#sistemas-de-informacion)
-   1.1. 
-   1.2.
-   1.3.
-   1.4.
-   1.5.
+   1. 
+   1.
+   1.
+   1.
+   1.
 
 [Unidad II: Modelos de procesos de software](#Unidad-II:-Modelos-de-procesos-de-software)
 1. [Proceso del software](#Proceso-del-software)
-   1.1. 
-   1.2.
-   1.3.
-   1.4.
-   1.5.
+   1. 
+   1.
+   1.
+   1.
+   1.
 2. [El ciclo de vida del Software](#El-ciclo-de-vida-del-Software)
-   1.1. 
-   1.2.
-   1.3.
-   1.4.
-   1.5.
+   1. 
+   1.
+   1.
+   1.
+   1.
 3. [Modelos de desarrollo: tradicionales vs alternativos](#Modelos-de-desarrollo:-tradicionales-vs-alternativos)
-   1.1. 
-   1.2.
-   1.3.
-   1.4.
-   1.5.
+   1. 
+   1.
+   1.
+   1.
+   1.
 5. [Contributing](#Contributing)
 6. [Credits](#credits)
 7. [License](#license)
 
-## Introduction
+## Fundamentos a la Ingeniería de Software
 
-Lagrange is a Jekyll theme that was built to be 100% compatible with [GitHub Pages](https://pages.github.com/). If you are unfamiliar with GitHub Pages, you can check out [their documentation](https://help.github.com/categories/github-pages-basics/) for more information. [Jonathan McGlone's guide](http://jmcglone.com/guides/github-pages/) on creating and hosting a personal site on GitHub is also a good resource.
+Presentar contenido sobre los principios y guías de la ingeniería en software, presentación de metodologías y fases y conceptos para llevar a cabo un buen funcionamiento al momento de querer desarrollar y generar un sistema.
 
-### What is Jekyll?
+### Que es software?
 
-Jekyll is a simple, blog-aware, static site generator for personal, project, or organization sites. Basically, Jekyll takes your page content along with template files and produces a complete website. For more information, visit the [official Jekyll site](https://jekyllrb.com/docs/home/) for their documentation. Codecademy also offers a great course on [how to deploy a Jekyll site](https://www.codecademy.com/learn/deploy-a-website) for complete beginners.
+Programas de c´omputo y su documentaci´on asociada: requerimientos,modelos de diseño y manuales de usuario.
+Puede ser gen´erico o ad hoc.
+   I Gen´erico: desarrollado para venderse a m´ultiples clientes (Excel, Word,
+etc.)
+   I Ad hoc: desarrollado bajo demanda del cliente a un desarrollador
+espec´ıfico
+
 
 ### Never Used Jekyll Before?
 
