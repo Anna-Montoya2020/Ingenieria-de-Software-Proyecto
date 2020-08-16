@@ -3,41 +3,46 @@
 La Ingenierıa de Software concierne a teorıas, metodos y herramientas para el desarrollo profesional de software.
 
 
-<<<<<<< HEAD
 ![alt text](https://prod-discovery.edx-cdn.org/media/course/image/0785d834-7f3d-4f56-9fcd-41255e67823c-544c50b565a0.small.jpg "Ingenieria Demo Image")
 
-* Compatible with GitHub Pages.
-
-* Support for Jekyll's built-in Sass/SCSS preprocessor and data files for making customizing easier.
-
-* [Google Analytics](https://www.google.com/analytics/) support.
-
-* Commenting support powered by [Disqus](https://disqus.com/).
-
-* Optimized for search engines.
-
-* LaTeX support through [MathJax](https://www.mathjax.org/).
 
 ## Table of Contents
 [Unidad I: Introducción a la ingeniería de software](#Unidad-I:-Introducción-a-la-ingeniería-de-software)
 1. [ Fundamentos a la Ingeniería de Software](#Fundamentos-a-la-Ingeniería-de-Software)
-   1.1. 
-   1.2.
-   1.3.
-   1.4.
-   1.5.
+   
+   1.
+
+   2.
+
+   3.
+
+   4.
+
+   5.
+
 2. [Proceso de Ingeniería de software](#Proceso-de-Ingeniería-de-software)
-   1.1. 
-   1.2.
-   1.3.
-   1.4.
-   1.5.
+   
+   1.
+
+   2.
+
+   3.
+
+   4.
+
+   5.
+
 3. [Sistemas de información](#sistemas-de-informacion)
-   1.1. 
-   1.2.
-   1.3.
-   1.4.
-   1.5.
+   
+   1.
+
+   2.
+
+   3.
+
+   4.
+
+   5.
 
 [Unidad II: Modelos de procesos de software](#Unidad-II:-Modelos-de-procesos-de-software)
    1. [Proceso del software](#Proceso-del-software)
