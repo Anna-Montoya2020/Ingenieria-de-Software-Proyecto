@@ -4,7 +4,7 @@ title: "Introduccion"
 author: "Annabelle Montoya"
 categories: journal
 tags: [documentation,sample]
-image: https://mexico.unir.net/wp-content/uploads/2018/11/maestria-en-ingenieria-del-software_p.jpg
+image: ent-software-businessman-ts-100539050-primary.jpg
 ---
 
 # Ingenieria Software
@@ -58,37 +58,37 @@ Adoptar un enfoque sistem´atico para llevar a cabo su trabajo
 [Unidad II: Modelos de procesos de software](#Unidad-II:-Modelos-de-procesos-de-software)
 1. [Proceso del software](#Proceso-del-software)
    1. 
-   1.
-   1.
-   1.
-   1.
+   2.
+   3.
+   4.
+   5.
 2. [El ciclo de vida del Software](#El-ciclo-de-vida-del-Software)
    1. 
-   1.
-   1.
-   1.
-   1.
+   2.
+   3.
+   4.
+   5.
 3. [Modelos de desarrollo: tradicionales vs alternativos](#Modelos-de-desarrollo:-tradicionales-vs-alternativos)
    1. 
-   1.
-   1.
-   1.
-   1.
+   2.
+   3.
+   4.
+   5.
 5. [Contributing](#Contributing)
 6. [Credits](#credits)
 7. [License](#license)
 
-### Fundamentos a la Ingeniería de Software
+## Fundamentos a la Ingeniería de Software
 
 Presentar contenido sobre los principios y guías de la ingeniería en software, presentación de metodologías y fases y conceptos para llevar a cabo un buen funcionamiento al momento de querer desarrollar y generar un sistema.
 
 ### Que es software?
 
 Programas de c´omputo y su documentaci´on asociada: requerimientos,modelos de diseño y manuales de usuario.
-Puede ser gen´erico o ad hoc.
-   I Gen´erico: desarrollado para venderse a m´ultiples clientes (Excel, Word,
+  Puede ser gen´erico o ad hoc.
+   * Gen´erico: desarrollado para venderse a m´ultiples clientes (Excel, Word,
 etc.)
-   I Ad hoc: desarrollado bajo demanda del cliente a un desarrollador
+   * Ad hoc: desarrollado bajo demanda del cliente a un desarrollador
 espec´ıfico
 
 
