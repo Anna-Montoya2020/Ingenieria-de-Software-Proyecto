@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Getting Started"
+title: "Introduccion"
 author: "Annabelle Montoya"
 categories: journal
 tags: [documentation,sample]
-image: forest.jpg
+image: https://mexico.unir.net/wp-content/uploads/2018/11/maestria-en-ingenieria-del-software_p.jpg
 ---
 
 # Ingenieria Software
