@@ -1,9 +1,14 @@
 ---
 layout: post
-title: "Introduccion"
+
+title: "Ingenieria Software"
+
 author: "Annabelle Montoya"
+
 categories: journal
+
 tags: [documentation,sample]
+
 image: ![alt text](https://micarrerauniversitaria.com/wp-content/uploads/2018/02/ent-software-businessman-ts-100539050-primary.idge_.jpg "Ingenieria Demo Image")
 
 
@@ -14,9 +19,13 @@ Disciplina de la Ingeniería que concierne a todos los aspectos de la producció
 Deben:
 
 Adoptar un enfoque sistemático para llevar a cabo su trabajo
+
    Utilizar las herramientas y técnicas más apropiadas dependiendo
+   
      * Problema a resolver
+     
      * Restricciones del desarrollo 
+     
      * Recursos disponibles
 
 
