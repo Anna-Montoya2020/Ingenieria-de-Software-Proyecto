@@ -6,8 +6,6 @@ categories: journal
 tags: [documentation,sample]
 image: ![alt text](https://micarrerauniversitaria.com/wp-content/uploads/2018/02/ent-software-businessman-ts-100539050-primary.idge_.jpg "Ingenieria Demo Image")
 
----
-
 
 # Ingenieria Software
 
