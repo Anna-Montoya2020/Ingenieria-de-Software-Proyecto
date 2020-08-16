@@ -10,11 +10,11 @@ image: https://mexico.unir.net/wp-content/uploads/2018/11/maestria-en-ingenieria
 # Ingenieria Software
 Disciplina de la Ingenier´ıa que concierne a todos los aspectos de la producci´on de software.
 Deben:
-  I Adoptar un enfoque sistem´atico para llevar a cabo su trabajo
-  I Utilizar las herramientas y t´ecnicas m´as apropiadas dependiendo
-     F del problema a resolver,
-     F las restricciones del desarrollo y
-     F los recursos disponibles.
+Adoptar un enfoque sistem´atico para llevar a cabo su trabajo
+   Utilizar las herramientas y t´ecnicas m´as apropiadas dependiendo
+     * Problema a resolver
+     * Restricciones del desarrollo 
+     * Recursos disponibles
 
 
 ![alt text](https://user-images.githubusercontent.com/8409329/32631384-17107870-c56e-11e7-932f-deeb7c12e4db.png "Ingenieria Demo Image")
