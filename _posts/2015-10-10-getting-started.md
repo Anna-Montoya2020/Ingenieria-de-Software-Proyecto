@@ -99,11 +99,9 @@ Adoptar un enfoque sistem´atico para llevar a cabo su trabajo
    6. [MathJax](#mathjax)
    7. [Syntax Highlighting](#syntax-highlighting)
    8. [Markdown](#markdown)
-5. [Everything Else](#everything-else)
-6. [Contributing](#Contributing)
-7. [Questions?](#questions)
-8. [Credits](#credits)
-9. [License](#license)
+5. [Contributing](#Contributing)
+6. [Credits](#credits)
+. [License](#license)
 
 ## Introduction
 
@@ -274,63 +272,18 @@ If you would like to make a feature request, or report a bug or typo in the docu
 
 Lagrange has been designed as a base for users to customize and fit to their own unique needs. Please keep this in mind when requesting features and/or submitting pull requests. Some examples of changes that I would love to see are things that would make the site easier to use, or better ways of doing things. Please avoid changes that do not benefit the majority of users.
 
-## Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
-
 ## Credits
 
 ### Creator
 
-#### Paul Le
+#### Montoya Annabelle
 
-* [www.lenpaul.com](http://lenpaul.com)
+* [GitHub](https://github.com/Anna-Montoya2020)
 
-* [Twitter](https://twitter.com/paululele)
-
-* [GitHub](https://github.com/LeNPaul)
-
-### Contributors
-
-* [nikolalukovic](https://github.com/nikolalukovic)
-
-* [gmemstr](https://github.com/gmemstr)
-
-* [lynn9388](https://github.com/lynn9388)
-
-* [robqiao](https://github.com/robqiao)
-
-* [Mauladen](https://github.com/Mauladen)
-
-* [dhanus](https://github.com/dhanus)
-
-* [mlewand](https://github.com/mlewand)
-
-* [Hguimaraes](https://github.com/Hguimaraes)
-
-* [ilhamadun](https://github.com/ilhamadun)
-
-* [brianclemens](https://github.com/brianclemens)
-
-* [leyhline](https://github.com/leyhline)
-
-* [aritra24](https://github.com/aritra24)
-
-* [DuckSoft](https://github.com/DuckSoft)
-
-### Icons + Demo Images
-
-* [Death to Stock](https://deathtothestockphoto.com/)
-
-* [Font Awesome](http://fontawesome.io/)
 
 ### Other
 
 * [Jekyll](https://jekyllrb.com/)
-
-* [Free Code Camp](https://www.freecodecamp.org)
-
-* [Khan Academy](https://www.khanacademy.org/)
 
 ## License
 
