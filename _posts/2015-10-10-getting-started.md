@@ -78,7 +78,7 @@ Adoptar un enfoque sistem´atico para llevar a cabo su trabajo
 6. [Credits](#credits)
 7. [License](#license)
 
-## Fundamentos a la Ingeniería de Software
+### Fundamentos a la Ingeniería de Software
 
 Presentar contenido sobre los principios y guías de la ingeniería en software, presentación de metodologías y fases y conceptos para llevar a cabo un buen funcionamiento al momento de querer desarrollar y generar un sistema.
 
