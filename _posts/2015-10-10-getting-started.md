@@ -55,34 +55,25 @@ Adoptar un enfoque sistem´atico para llevar a cabo su trabajo
    1.5.
 
 [Unidad II: Modelos de procesos de software](#Unidad-II:-Modelos-de-procesos-de-software)
-   1. [Proceso del software](#Proceso-del-software)
+1. [Proceso del software](#Proceso-del-software)
    1.1. 
    1.2.
    1.3.
    1.4.
    1.5.
-   2. [El ciclo de vida del Software](#El-ciclo-de-vida-del-Software)
+2. [El ciclo de vida del Software](#El-ciclo-de-vida-del-Software)
    1.1. 
    1.2.
    1.3.
    1.4.
    1.5.
-   3. [Modelos de desarrollo: tradicionales vs alternativos](#Modelos-de-desarrollo:-tradicionales-vs-alternativos)
+3. [Modelos de desarrollo: tradicionales vs alternativos](#Modelos-de-desarrollo:-tradicionales-vs-alternativos)
    1.1. 
    1.2.
    1.3.
    1.4.
    1.5.
 
-
-1. [Introduction](#introduction)
-   1. [What is Jekyll](#what-is-jekyll)
-   2. [Never Used Jeykll Before?](#never-used-jekyll-before)
-2. [Installation](#installation)
-   1. [GitHub Pages Installation](#github-pages-installation)
-   2. [Local Installation](#local-installation)
-   3. [Directory Structure](#directory-structure)
-   4. [Starting From Scratch](#starting-from-scratch)
 3. [Configuration](#configuration)
    1. [Sample Posts](#sample-posts)
    2. [Site Variables](#site-variables)
