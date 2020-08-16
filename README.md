@@ -252,9 +252,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 ## Contributing
 
-If you would like to make a feature request, or report a bug or typo in the documentation, then please [submit a GitHub issue](https://github.com/LeNPaul/Lagrange/issues/new). If you would like to make a contribution, then feel free to [submit a pull request](https://help.github.com/articles/about-pull-requests/) - as a bonus, I will credit all contributors below! If this is your first pull request, it may be helpful to read up on the [GitHub Flow](https://guides.github.com/introduction/flow/) first.
 
-Lagrange has been designed as a base for users to customize and fit to their own unique needs. Please keep this in mind when requesting features and/or submitting pull requests. Some examples of changes that I would love to see are things that would make the site easier to use, or better ways of doing things. Please avoid changes that do not benefit the majority of users.
 
 ## Questions?
 
@@ -264,43 +262,13 @@ This theme is completely free and open source software. You may use it however y
 
 ### Creator
 
-#### Paul Le
+#### Annabelle Montoya Lainez
 
 * [www.lenpaul.com](http://lenpaul.com)
 
-* [Twitter](https://twitter.com/paululele)
+* [GitHub](https://github.com/Anna-Montoya2020)
 
-* [GitHub](https://github.com/LeNPaul)
 
-### Contributors
-
-* [nikolalukovic](https://github.com/nikolalukovic)
-
-* [gmemstr](https://github.com/gmemstr)
-
-* [lynn9388](https://github.com/lynn9388)
-
-* [robqiao](https://github.com/robqiao)
-
-* [Mauladen](https://github.com/Mauladen)
-
-* [dhanus](https://github.com/dhanus)
-
-* [mlewand](https://github.com/mlewand)
-
-* [Hguimaraes](https://github.com/Hguimaraes)
-
-* [ilhamadun](https://github.com/ilhamadun)
-
-* [brianclemens](https://github.com/brianclemens)
-
-* [leyhline](https://github.com/leyhline)
-
-* [aritra24](https://github.com/aritra24)
-
-* [DuckSoft](https://github.com/DuckSoft)
-
-* [larrylawl](https://github.com/larrylawl)
 
 ### Icons + Demo Images
 

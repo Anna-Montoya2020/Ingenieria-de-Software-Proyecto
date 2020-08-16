@@ -85,9 +85,12 @@ Presentar contenido sobre los principios y guías de la ingeniería en software,
 ### Que es software?
 
 Programas de c´omputo y su documentaci´on asociada: requerimientos,modelos de diseño y manuales de usuario.
+  
   Puede ser gen´erico o ad hoc.
+  
    * Gen´erico: desarrollado para venderse a m´ultiples clientes (Excel, Word,
 etc.)
+  
    * Ad hoc: desarrollado bajo demanda del cliente a un desarrollador
 espec´ıfico
 
