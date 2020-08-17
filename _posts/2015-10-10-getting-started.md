@@ -24,20 +24,16 @@ Adoptar un enfoque sistemático para llevar a cabo su trabajo
 
 ## Tabla de contenido
 [Unidad I: Introducción a la ingeniería de software](#Unidad-I:-Introducción-a-la-ingeniería-de-software)
+
 1. [ Fundamentos a la Ingeniería de Software](#Fundamentos-a-la-Ingeniería-de-Software)
+  
    1. [Que es software?](#Que-es-software?)
 
-   2.
-
-   3.
-
-   4.
-
-   5.
 
 2. [Proceso de Ingeniería de software](#Proceso-de-Ingeniería-de-software)
    
-   1.
+   1. [¿Qué es un proceso de software?](#¿Qué-es-un-proceso-de-software?)
+
 
    2.
 
@@ -60,6 +56,7 @@ Adoptar un enfoque sistemático para llevar a cabo su trabajo
    5.
 
 [Unidad II: Modelos de procesos de software](#Unidad-II:-Modelos-de-procesos-de-software)
+
 1. [Proceso del software](#Proceso-del-software)
    
    1.
@@ -116,6 +113,28 @@ etc.)
   
    * Ad hoc: desarrollado bajo demanda del cliente a un desarrollador
 especifico
+
+## Proceso de Ingeniería de software
+
+### Qué es un proceso de software
+
+Conjunto estructurado de actividades, cuya meta es el
+desarrollo o evoluci´on de un software.
+
+Algunas actividades genéricas en todos los procesos de software son:
+* Especificación, qué debe hacer el software y cuáles son sus
+especificaciones de desarrollo.
+
+* Desarrollo, producción del sistema de software
+
+* Validación, verificar que el software cumple con lo solicitado por el
+cliente.
+
+* Evolución, cambiar/adaptar el software a las nuevas demandas
+
+Estas actividades varían dependiendo de la organización y del tipo de
+sistema a desarrollarse.
+
 
 
 ## Credits
