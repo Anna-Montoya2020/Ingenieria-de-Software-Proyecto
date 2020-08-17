@@ -16,7 +16,7 @@ desarrollo y puesta en marcha de productos útiles de software.
 La Ingeniería de Software a un está lejos de ser considerada una
 ciencia como los son la qu´ımica o la física
 
-![alt text](aragestock/garagestock1606/garagestock160604615/58194257-ingenier%C3%ADa-de-software-carta-con-palabras-clave-y-los-iconos-dise%C3%B1o-plana.jpg)
+![alt text](https://img2.freepng.es/20180626/uw/kisspng-stock-photography-computer-software-software-engin-5b32c442987bf2.8562335615300536986246.jpg)
 
 # Ciencias Computacionales
 
