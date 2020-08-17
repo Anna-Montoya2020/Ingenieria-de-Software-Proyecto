@@ -4,7 +4,6 @@ title: "Bienvenidos al Blog de Ingenieria de Software!"
 author: "Annabelle Montoya"
 categories: journal
 tags: [documentation,sample]
-image: ![alt text](http://ing-sistemas.com/wp-content/uploads/2017/02/LineaInnova_950px_SistInf.jpg)
 ---
 
 La creación del software es un proceso intrínsecamente creativo y la ingeniería del software trata de sistematizar este proceso con el fin de acotar el riesgo del fracaso en la consecución del objetivo creativo por medio de diversas técnicas que se han demostrado adecuadas en base a la experiencia previa.
