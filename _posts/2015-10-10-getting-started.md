@@ -25,6 +25,7 @@ Utilizar las herramientas y técnicas más apropiadas dependiendo
 
 
 ## Tabla de contenido
+
 [Unidad I: Introducción a la ingeniería de software](#Unidad-I:-Introducción-a-la-ingeniería-de-software)
 
 1. [ Fundamentos a la Ingeniería de Software](#Fundamentos-a-la-Ingeniería-de-Software)
@@ -65,20 +66,12 @@ Utilizar las herramientas y técnicas más apropiadas dependiendo
 [Unidad II: Modelos de procesos de software](#Unidad-II:-Modelos-de-procesos-de-software)
 
 1. [Proceso del software](#Proceso-del-software)
+
+   1. [Procesos del software 12207]
+
+2. [Ciclo de vida del Software](#Ciclo-de-vida-del-Software)
    
-   1.
-
-   2.
-
-   3.
-
-   4.
-
-   5.
-
-2. [El ciclo de vida del Software](#El-ciclo-de-vida-del-Software)
-   
-   1.
+   1.[Procesos del ciclo de vida]
 
    2.
 
@@ -285,7 +278,7 @@ Un software de calidad tiene concordancia con:
  
  * Las características implícitas que se espera de todo software desarrollado profesionalmente
 
-Modelo de calidad McCall
+##### Modelo de calidad McCall
 
 La clasificación de los factores de calidad se centra en tres aspectos importantes de un producto software:
 
@@ -295,7 +288,7 @@ La clasificación de los factores de calidad se centra en tres aspectos importan
   
   3. Su adaptabilidad a nuevos entornos.
   
-Características operativas
+##### Características operativas
 
 * Corrección ¿Hace lo que quiero?
 
@@ -307,9 +300,9 @@ Características operativas
 
 * Facilidad de uso ¿Está diseñado para ser usado?
 
-Capacidad de soportar los cambios
+##### Capacidad de soportar los cambios
 
-* Facilidad de mantenimiento ¿Puedo corregirlo?,
+* Facilidad de mantenimiento ¿Puedo corregirlo?
 
 * Flexibilidad ¿Puedo cambiarlo?
  
@@ -323,6 +316,110 @@ Capacidad de soportar los cambios
 
 * Facilidad de interoperación ¿Podré hacerlo interactuar con otro sistema?
 
+# Unidad II: Modelos de procesos de software
+
+## Proceso del software
+
+El proceso para el desarrollo de software se aplica en el desarrollo de un producto de software. Existen varios modelos para crear un software, cada uno explica los diferentes
+enfoques de las distintas actividades que van a existir durante el proceso. Un modelo del ciclo del software es considerando por un grupo de autores como un término general es decir qué no es un proceso para el desarrollo de software.
+
+
+
+Los modelos de estos procesos, se enfocan e describir las tareas o actividades que van a tener lugar en el proceso. Un ejemplo que se puede destacar es que hay muchos procesos específicos de desarrollo de software que “ajuste” del modelo del ciclo de vida en espiral. ISO/IEC 12207 es un estándar internacional para los procesos del ciclo de vida del software. Su objetivo es ser el estándar que define todas las tareas necearías para el desarrollo y mantenimiento de software.
+
+   1. Especificación de software: Se debe definir la funcionalidad y restricciones operacionales que debe cumplir el software.
+   
+   2. Diseño e Implementación: Se diseña y construye el software de acuerdo a la especificación.
+   
+   3. Validación: El software debe validarse, para asegurar que cumpla con lo que quiere el cliente.
+   
+   4. Evolución: El software debe evolucionar, para adaptarse a las necesidades del cliente
+   
+   
+
+Otra perspectiva utilizada para determinar los elementos del proceso de desarrollo de software es establecer las relaciones entre elementos que permitan responder quién debe hacer qué, cuándo y cómo debe hacerlo 
+
+Quién: Las personas participantes en el proyecto de desarrollo desempeñan uno o más roles específicos. 
+
+Qué: Un artefacto es producido por un rol en una de sus actividades. Los artefactos se especifican utilizando notaciones específicas. Las herramientas apoyan la elaboración de artefactos soportando ciertas notaciones.
+
+Cómo y Cuándo: Las Actividades son una serie de pasos que lleva a cabo un rol durante el proceso de desarrollo. El avance del proyecto está controlado mediante hitos que establecen un determinado estado de terminación de ciertos artefactos. Estas actividades varían dependiendo de la organización y del tipo de sistema a desarrollarse.
+  
+  ### Procesos del software 12207
+  
+   1.1. Proceso de Adquisición
+      
+   Proceso global que sigue el adquiriente para obtener el producto.
+           
+   * Identificar necesidades del cliente
+               
+   * Aceptación del producto o servicio
+               
+   * Satisfacer las necesidades del cliente
+               
+   1.2. Proceso de Suministro
+   
+   Comprar productos y/o servicios acordes a requisitos establecidos. Proceso global que sigue
+el suministro para proporcionar el producto.
+
+   1.3. Proceso de Desarrollo
+   
+   Proceso empleado por el suministro para el diseño, construcción y pruebas del producto.
+    
+   1.4. Proceso de Operación
+
+   Proceso seguido por el operador en el “día a día” para el uso del producto
+
+   1.5. Proceso de Mantenimiento
+   
+   Proceso empleado para mantener el producto, incluyendo tanto los cambios en el
+propio producto como en su entorno de operación.
+
+
+
+## Ciclo de vida del Software
+
+Aplicar los procesos, tanto en el desarrollo como en el posterior mantenimiento y operación del software. Un modelo de ciclo de vida es un marco de referencia que contiene
+los procesos, las actividades y las tareas involucradas en el desarrollo, la explotación y el mantenimiento de un producto de software, abarcando la vida del sistema desde la definición de los requisitos hasta la finalización de su uso [ISO/IEC 12207-1].
+
+El marco del ciclo de vida del software cubre desde la conceptuación de las ideas iniciales del producto hasta el fin de uso (retirada). ISO/IEC 12207 1995
+
+ * Adquisición suministro, desarrollo, operación y mantenimiento del software
+ 
+ * Gestionar, controlar y mejorar el marco
+ 
+ * Como base de la referencia para el trabajo e intercambio entre organizaciones de software
+ 
+### Procesos del ciclo de vida
+
+Actividades y tareas implicadas en el desarrollo operación y mantenimiento de un sistema de
+software.
+Proceso del proyecto
+  2.1. Proceso de planificación del proyecto
+   
+   Establece requisitos para
+   
+   Identificar alcance del proyecto
+   
+   Identificar tareas y salidas de los procesos
+   
+   Establecimiento de planes y recursos
+  
+  2.2. Proceso de evaluación y control del proyecto
+  
+   Requisitos para control del proyecto
+  
+   Planificación
+  
+   Costes
+  
+   Objetivos técnicos
+  
+   Desviaciones
+   
+2.3. Proceso de gestión de la decisión
+
+Requisitos de soporte para la toma de decisiones
 
 
 
