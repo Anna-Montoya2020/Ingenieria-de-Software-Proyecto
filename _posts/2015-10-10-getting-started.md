@@ -185,6 +185,21 @@ Este Código ha sido redactado por la IEEE‑CS/ACM fuerza unida operante para l
 
 ### Problemas al desarrollar software
 
+El software ha superado al hardware como factor decisivo de éxito, actualmente en los sistemas basados en computadores, el software ha superado al hardware como factor decisivo de éxito.
+  
+  * Incapacidad para estimar tiempo, coste y esfuerzo para el desarrollo de un producto software.
+  
+  * Falta de calidad del producto software.
+  
+  * Avance del hardware y necesidad de aplicaciones más complejas.
+  
+  * Cambio en la relación entre el coste hardware/software.
+  
+
+  
+
+
+
 
 
 ## Credits
