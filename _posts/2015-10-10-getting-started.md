@@ -15,7 +15,8 @@ Deben:
 
 Adoptar un enfoque sistemático para llevar a cabo su trabajo
 
-   Utilizar las herramientas y técnicas más apropiadas dependiendo
+Utilizar las herramientas y técnicas más apropiadas dependiendo
+   
      * Problema a resolver
      
      * Restricciones del desarrollo 
@@ -40,7 +41,7 @@ Adoptar un enfoque sistemático para llevar a cabo su trabajo
 
    3. [¿Retos de la Ingeniería de Software?](#Retos-de-la-Ingeniería-de-Software)
 
-   4.
+   4. [Código de Ética y Práctica Profesional](#Código-de-Ética-y-Práctica-Profesional)
 
    5.
 
@@ -158,6 +159,29 @@ Heterogeneidad: Desarrollar técnicas para construir software que pueda hacer fr
 Tiempos de entrega : Desarrollar técnicas que permitan reducir los tiempos de entrega del software sin comprometer la calidad.
 
 Confianza: Desarrollar técnicas que permitan que los usuarios confíen plenamente en el software.
+
+###  Código de Ética en la Ingeniería de Software
+
+Los ingenieros de software deberán comprometerse a convertir el análisis, especificación, diseño, implementación, pruebas y mantenimiento de software en una profesión respetada y benéfica. De acuerdo a su compromiso con la salud, seguridad y bienestar social, los ingenieros de software deberán sujetarse a los ocho principios siguientes:
+
+1. Sociedad: Los ingenieros de software actuarán en forma congruente con el interés social.
+
+2. Cliente: y empresario. Los ingenieros de software actuarán de manera que se concilien los mejores intereses de sus clientes y empresarios, congruentemente con el interés social.
+
+3. Producto: Los ingenieros de software asegurarán que sus productos y modificaciones correspondientes cumplen los estándares profesionales más altos posibles.
+
+4. Juicio: Los ingenieros de software mantendrán integridad e independencia en su juicio profesional.
+
+5. Administración: Los ingenieros de software gerentes y líderes promoverán y se suscribirán a un enfoque ético en la administración del desarrollo y mantenimiento de software.
+
+6. Profesión; Los ingenieros de software incrementarán la integridad y reputación de la profesión
+congruentemente con el interés social.
+
+7. Colegas: Los ingenieros de software apoyarán y serán justos con sus colegas.
+
+8. Personal: Los ingenieros de software participarán toda su vida en el aprendizaje relacionado con la práctica de su profesión y promoverán un enfoque ético en la práctica de la profesión.
+
+Este Código ha sido redactado por la IEEE‑CS/ACM fuerza unida operante para la Ética y Práctica Professional de la Ingeniería de Software (SEEPP).
 
 
 ## Credits
