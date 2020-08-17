@@ -116,7 +116,7 @@ especifico
 
 ## Proceso de Ingeniería de software
 
-### Qué es un proceso de software
+### Qué es un proceso de software?
 
 Conjunto estructurado de actividades, cuya meta es el
 desarrollo o evoluci´on de un software.
