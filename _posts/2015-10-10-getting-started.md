@@ -47,13 +47,22 @@ Utilizar las herramientas y técnicas más apropiadas dependiendo
    
    1. [Problemas al desarrollar software](#Problemas-al-desarrollar-software)
 
-   2.
+   2.[Crisis del software](#Crisis-del-software)
+   
+       1. [Difícultad al desarrollar software](#Difícultad-al-desarrollar-software)
+       
+       2. [Fases de desarrollo de un proyecto](#Fases-de-desarrollo-de-un-proyecto)
+       
 
-   3.
+   3.[Proyecto software](#Proyecto-software)
+   
+       1. [¿Cómo se hace un software?](#¿Cómo-se-hace-un-software?)
+       
+       2. [¿Qué es software de calidad?](#¿Qué-es-software-de-calidad?)
 
-   4.
+   4.[Problemas al desarrollar software](#Problemas-al-desarrollar-software)
 
-   5.
+   5.[Problemas al desarrollar software](#Problemas-al-desarrollar-software)
 
 [Unidad II: Modelos de procesos de software](#Unidad-II:-Modelos-de-procesos-de-software)
 
@@ -194,9 +203,72 @@ El software ha superado al hardware como factor decisivo de éxito, actualmente 
   * Avance del hardware y necesidad de aplicaciones más complejas.
   
   * Cambio en la relación entre el coste hardware/software.
-  
 
-  
+### Crisis del software
+
+* Retraso en la entrega
+
+* Falta de fiabilidad
+
+* Coste excesivo
+
+* Ineficiencia
+
+* Mantenimiento problemático
+
+* Falta de adaptabilidad
+
+* Escasa portabilidad
+
+* Carencia de documentación
+
+#### Difícultad al desarrollar software
+
+Al momento de desarrollar software pueden existir grandes desafíos:
+
+* Problemas grandes, complejos y muy variados
+
+* Formalismos inadecuados
+
+* Gran diferencia entre la teoría y la práctica
+
+* Imposibilidad de utilizar aproximaciones  
+
+#### Fases de desarrollo de un proyecto
+
+Un proyecto desarrollado de forma indisciplinada tiene muchas posibilidades de fracasar
+
+* Problemas de comunicaci´on con el cliente
+
+* Problemas de comunicaci´on en el equipo
+
+### Proyecto software
+
+#### ¿Cómo se hace un software?
+
+Desarrollar software es como construir un edificio: hay mucho que hacer
+antes del “verdadero” trabajo
+
+* Planificar minuciosamente
+
+* Elegir materiales
+
+* Establecer y respetar una temporización
+
+* Inspeccionar frecuentemente la obra
+
+* Los errores son muy costosos de reparar
+
+* La dificultad depende del tamaño
+
+Los problemas de organización y gestión son tan complicados como los problemas técnicos
+
+El coste del error depende del proyecto
+
+Si el proyecto es importante, planifica.
+
+#### ¿Qué es software de calidad?
+
 
 
 
