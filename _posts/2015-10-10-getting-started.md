@@ -1,12 +1,8 @@
 ---
 layout: post
-
 title: "Ingenieria Software"
-
 author: "Annabelle Montoya"
-
 categories: journal
-
 tags: [documentation,sample]
 
 image: ![alt text](https://micarrerauniversitaria.com/wp-content/uploads/2018/02/ent-software-businessman-ts-100539050-primary.idge_.jpg "Ingenieria Demo Image")
@@ -21,11 +17,8 @@ Deben:
 Adoptar un enfoque sistemático para llevar a cabo su trabajo
 
    Utilizar las herramientas y técnicas más apropiadas dependiendo
-   
      * Problema a resolver
-     
      * Restricciones del desarrollo 
-     
      * Recursos disponibles
 
 
@@ -48,8 +41,7 @@ Adoptar un enfoque sistemático para llevar a cabo su trabajo
 
 2. [Proceso de Ingeniería de software](#Proceso-de-Ingeniería-de-software)
    
-   1. [¿Qué es un proceso de software?] (#¿Qué-es-un-proceso-de-software?)
-
+   1.
 
    2.
 
