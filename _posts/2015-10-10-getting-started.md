@@ -42,12 +42,10 @@ Utilizar las herramientas y técnicas más apropiadas dependiendo
    3. [¿Retos de la Ingeniería de Software?](#Retos-de-la-Ingeniería-de-Software)
 
    4. [Código de Ética y Práctica Profesional](#Código-de-Ética-y-Práctica-Profesional)
-
-   5.
-
+   
 3. [Sistemas de información](#sistemas-de-informacion)
    
-   1. 
+   1. [Problemas al desarrollar software](#Problemas-al-desarrollar-software)
 
    2.
 
@@ -182,6 +180,11 @@ congruentemente con el interés social.
 8. Personal: Los ingenieros de software participarán toda su vida en el aprendizaje relacionado con la práctica de su profesión y promoverán un enfoque ético en la práctica de la profesión.
 
 Este Código ha sido redactado por la IEEE‑CS/ACM fuerza unida operante para la Ética y Práctica Professional de la Ingeniería de Software (SEEPP).
+
+## Sistemas de información
+
+### Problemas al desarrollar software
+
 
 
 ## Credits
