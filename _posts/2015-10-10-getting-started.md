@@ -17,11 +17,11 @@ Adoptar un enfoque sistemático para llevar a cabo su trabajo
 
 Utilizar las herramientas y técnicas más apropiadas dependiendo
    
-     * Problema a resolver
+ * Problema a resolver
      
-     * Restricciones del desarrollo 
+ * Restricciones del desarrollo 
      
-     * Recursos disponibles
+ * Recursos disponibles
 
 
 ## Tabla de contenido
@@ -30,6 +30,7 @@ Utilizar las herramientas y técnicas más apropiadas dependiendo
 1. [ Fundamentos a la Ingeniería de Software](#Fundamentos-a-la-Ingeniería-de-Software)
   
    1. [Objetivo de la Ingenieria de Software](#Objetivo-de-la-Ingenieria-de-Software)
+   
    2. [Que es software?](#Que-es-software?)
 
 
@@ -49,20 +50,17 @@ Utilizar las herramientas y técnicas más apropiadas dependiendo
 
    2.[Crisis del software](#Crisis-del-software)
    
-       1. [Difícultad al desarrollar software](#Difícultad-al-desarrollar-software)
+      1. [Difícultad al desarrollar software](#Difícultad-al-desarrollar-software)
        
-       2. [Fases de desarrollo de un proyecto](#Fases-de-desarrollo-de-un-proyecto)
+      2. [Fases de desarrollo de un proyecto](#Fases-de-desarrollo-de-un-proyecto)
        
 
-   3.[Proyecto software](#Proyecto-software)
+4.[Proyecto software](#Proyecto-software)
    
-       1. [¿Cómo se hace un software?](#¿Cómo-se-hace-un-software?)
+   1. [¿Cómo se hace un software?](#¿Cómo-se-hace-un-software?)
        
-       2. [¿Qué es software de calidad?](#¿Qué-es-software-de-calidad?)
+   2. [¿Qué es software de calidad?](#¿Qué-es-software-de-calidad?)
 
-   4.[Problemas al desarrollar software](#Problemas-al-desarrollar-software)
-
-   5.[Problemas al desarrollar software](#Problemas-al-desarrollar-software)
 
 [Unidad II: Modelos de procesos de software](#Unidad-II:-Modelos-de-procesos-de-software)
 
@@ -267,9 +265,63 @@ El coste del error depende del proyecto
 
 Si el proyecto es importante, planifica.
 
+Es importante recordar:
+
+Personas los que trabajan
+
+Producto lo que se obtiene
+
+Proyecto la pauta a seguir para desarrollar un producto
+
+Proceso la pauta a seguir para desarrollar un proyecto
+
 #### ¿Qué es software de calidad?
 
+Un software de calidad tiene concordancia con:
 
+ * Los requisitos funcionales y de rendimiento explcítamente establecidos
+ 
+ * Los estándares de desarrollo explícitamente documentados 
+ 
+ * Las características implícitas que se espera de todo software desarrollado profesionalmente
+
+Modelo de calidad McCall
+
+La clasificación de los factores de calidad se centra en tres aspectos importantes de un producto software:
+
+  1. Sus caracteríticas operativas.
+  
+  2. Su capacidad de soportar los cambios.
+  
+  3. Su adaptabilidad a nuevos entornos.
+  
+Características operativas
+
+* Corrección ¿Hace lo que quiero?
+
+* Fiabilidad ¿Lo hace de forma fiable todo el tiempo?
+
+* Eficiencia ¿Se ejecutará en el Hw lo mejor que pueda?
+
+* Integridad ¿Es seguro?
+
+* Facilidad de uso ¿Está diseñado para ser usado?
+
+Capacidad de soportar los cambios
+
+* Facilidad de mantenimiento ¿Puedo corregirlo?,
+
+* Flexibilidad ¿Puedo cambiarlo?
+ 
+* Facilidad de prueba ¿Puedo probarlo?
+
+* Adaptabilidad de nuevos entornos
+
+* Portabilidad ¿Podré usarlo en otra máquina?,
+
+* Reusabilidad ¿Podré reusar alguna parte del software?
+
+* Facilidad de interoperación ¿Podré hacerlo interactuar con otro sistema?
 
 
 
