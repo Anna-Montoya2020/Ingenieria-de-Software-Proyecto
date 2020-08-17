@@ -16,7 +16,6 @@ Deben:
 Adoptar un enfoque sistemático para llevar a cabo su trabajo
 
    Utilizar las herramientas y técnicas más apropiadas dependiendo
-
      * Problema a resolver
      * Restricciones del desarrollo 
      * Recursos disponibles
@@ -34,8 +33,7 @@ Adoptar un enfoque sistemático para llevar a cabo su trabajo
    
    1. [¿Qué es un proceso de software?](#¿Qué-es-un-proceso-de-software?)
 
-
-   2.
+   2. [¿Atributos de calidad de software?](#Atributos-de-calidad-de-software)
 
    3.
 
@@ -134,6 +132,23 @@ cliente.
 
 Estas actividades varían dependiendo de la organización y del tipo de
 sistema a desarrollarse.
+
+### Atributos de calidad de software?
+
+El software debe proveer la funcionalidad y desempeño requeridos por el usuario y debe ser
+mantenible, confiable y aceptable:
+
+* Mantenible, el software debe poder evolucionar para continuar
+cumpliendo con las especificaciones
+
+* Confiable, el software no debe causar daños físicos o económicos en
+el caso de que falle
+
+* Eficiente, el software no debe desperdiciar los recursos del sistema
+
+* Aceptable, el software debe ser aceptado por los usuarios para los
+que fue diseñado. Debe ser entendible, utilizable y compatible con
+otros sistemas.
 
 
 
