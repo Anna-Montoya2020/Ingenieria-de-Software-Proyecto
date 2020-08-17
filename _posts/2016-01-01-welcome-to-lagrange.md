@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bienvenidos al Blog de Ingenieria de Software!"
+title: "Bienvenidos al Blog de Ingenieria de Software"
 author: "Annabelle Montoya"
 categories: journal
 tags: [documentation,sample]
@@ -9,13 +9,14 @@ imagen:cards.jpg
 
 La creación del software es un proceso intrínsecamente creativo y la ingeniería del software trata de sistematizar este proceso con el fin de acotar el riesgo del fracaso en la consecución del objetivo creativo por medio de diversas técnicas que se han demostrado adecuadas en base a la experiencia previa.
 
-## Introduccion
+## Blog de Ingenieria de Software
 
-[Getting Started]({{site.github.url}}{%post_url2015-10-10-getting-started%}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+[Bienvenidos al Blog de Ingenieria de Software]({{site.github.url}}{%post_url2015-10-10-getting-started%}): vamos a presentar las metodologias, procedimientos, fases que se van a utilizar dentro de la Ingenieria de Software, los principaeles conceptos para poderse adentrar al mundo de Software.
 
-## Example Content
+## Ingeniería de Software y Ciencias Computacionales
 
-[Text and Formatting]({{site.github.url}}{%post_url2014-01-01-text-formatting-examples%})
+[Ingeniería de Software y Ciencias
+Computacionales]({{site.github.url}}{%post_url2014-01-01-text-formatting-examples%})
 
 ## Questions?
 
