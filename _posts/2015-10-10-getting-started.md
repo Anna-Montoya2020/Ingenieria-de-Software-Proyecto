@@ -16,13 +16,10 @@ Deben:
 Adoptar un enfoque sistemático para llevar a cabo su trabajo
 
    Utilizar las herramientas y técnicas más apropiadas dependiendo
+
      * Problema a resolver
      * Restricciones del desarrollo 
      * Recursos disponibles
-
-
-![alt text](https://micarrerauniversitaria.com/wp-content/uploads/2018/02/images1590772congnghe_HWUG.jpg )
-
 
 
 ## Tabla de contenido
