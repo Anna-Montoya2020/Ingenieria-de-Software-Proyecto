@@ -17,7 +17,9 @@ Adoptar un enfoque sistemático para llevar a cabo su trabajo
 
    Utilizar las herramientas y técnicas más apropiadas dependiendo
      * Problema a resolver
+     
      * Restricciones del desarrollo 
+     
      * Recursos disponibles
 
 
