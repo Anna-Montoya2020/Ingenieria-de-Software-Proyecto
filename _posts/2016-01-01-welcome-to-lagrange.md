@@ -9,7 +9,7 @@ image: ![alt text](http://ing-sistemas.com/wp-content/uploads/2017/02/LineaInnov
 
 La creación del software es un proceso intrínsecamente creativo y la ingeniería del software trata de sistematizar este proceso con el fin de acotar el riesgo del fracaso en la consecución del objetivo creativo por medio de diversas técnicas que se han demostrado adecuadas en base a la experiencia previa.
 
-## Getting Started
+## Introduccion
 
 [Getting Started]({{site.github.url}}{%post_url2015-10-10-getting-started%}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
 

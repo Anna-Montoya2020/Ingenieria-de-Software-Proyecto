@@ -3,7 +3,7 @@
 La Ingenierıa de Software concierne a teorıas, metodos y herramientas para el desarrollo profesional de software.
 
 
-![alt text](https://prod-discovery.edx-cdn.org/media/course/image/0785d834-7f3d-4f56-9fcd-41255e67823c-544c50b565a0.small.jpg "Ingenieria Demo Image")
+![alt text](https://prod-discovery.edx-cdn.org/media/course/image/0785d834-7f3d-4f56-9fcd-41255e67823c-544c50b565a0.small.jpg )
 
 
 ## Table of Contents
