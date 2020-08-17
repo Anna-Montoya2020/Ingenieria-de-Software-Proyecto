@@ -67,19 +67,16 @@ Utilizar las herramientas y técnicas más apropiadas dependiendo
 
 1. [Proceso del software](#Proceso-del-software)
 
-   1. [Procesos del software 12207]
+   1. [Procesos del software 12207](#Proceso-del-software-12207)
 
 2. [Ciclo de vida del Software](#Ciclo-de-vida-del-Software)
    
-   1.[Procesos del ciclo de vida]
+   1.[Procesos del ciclo de vida](#Proceso-del-ciclo-de-vida)
 
-   2.
+      1.Proceso del proyecto
 
-   3.
+      2.Procesos Organizacionales del proyecto
 
-   4.
-
-   5.
 
 3. [Modelos de desarrollo: tradicionales vs alternativos](#Modelos-de-desarrollo:-tradicionales-vs-alternativos)
    
@@ -394,8 +391,9 @@ El marco del ciclo de vida del software cubre desde la conceptuación de las ide
 
 Actividades y tareas implicadas en el desarrollo operación y mantenimiento de un sistema de
 software.
-Proceso del proyecto
-  2.1. Proceso de planificación del proyecto
+#### Proceso del proyecto
+
+  1. Proceso de planificación del proyecto
    
    Establece requisitos para
    
@@ -405,7 +403,7 @@ Proceso del proyecto
    
    Establecimiento de planes y recursos
   
-  2.2. Proceso de evaluación y control del proyecto
+  2. Proceso de evaluación y control del proyecto
   
    Requisitos para control del proyecto
   
@@ -417,9 +415,49 @@ Proceso del proyecto
   
    Desviaciones
    
-2.3. Proceso de gestión de la decisión
+  3. Proceso de gestión de la decisión
 
 Requisitos de soporte para la toma de decisiones
+
+  4. Proceso de gestión de riesgos.
+
+Requisitos para control y monitorización continúa de riesgos
+
+  5. Proceso de gestión de la configuración
+
+Requisitos para la integridad y disponibilidad de las salidas de un proyecto
+
+  6. Proceso de gestión de la información
+
+Requisitos para mantener toda la información relevante acerca de los procesos y garantizar su disponibilidad y confidencialidad
+
+  7. Proceso de medición
+  
+Requisitos para recoger y analizar los datos que soportan objetivamente la calidad de los productos y la gestión efectiva de los procesos.
+
+#### Procesos Organizacionales del proyecto
+
+1. Proceso de gestión del modelo de ciclo de vida
+
+Políticas procesos y procedimientos para el ciclo de vida
+
+Requisitos para su gestión (definición, objetivos, mejora continua etc.)
+
+2. Proceso de gestión de infraestructuras
+
+Recursos de soporte de procesos durante el ciclo de vida (instalaciones, herramientas,tecnologías etc.)
+
+3. Proceso de gestión de la cartera de proyectos
+
+Requisitos para justificar la asignación continúa de recursos a proyectos para garantizar los objetivos de una organización
+
+4. Proceso de gestión de recursos humanos
+
+Requisitos para asegurar la cualificación del personal asignado a los procesos del ciclo de vida.
+
+5. Proceso de gestión de la calidad
+
+Requisitos para alcanzar los objetivos de calidad
 
 
 
