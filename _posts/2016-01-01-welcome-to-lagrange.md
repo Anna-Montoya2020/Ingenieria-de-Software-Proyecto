@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bienvenidos al Blog de Ingenieria de Software"
+title: "Bienvenidos"
 author: "Annabelle Montoya"
 categories: journal
 tags: [documentation,sample]
