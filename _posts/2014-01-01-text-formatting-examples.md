@@ -5,7 +5,6 @@ author: "Annabelle Montoya"
 categories: journal
 tags: [documentation,sample]
 image: https://www.gruponw.com/nwlib6/includes/phpthumb/phpThumb.php?src=/imagenes/programm.png&w=700&f=png.jpg
-
 ---
 
 # Ingeniería de Software
