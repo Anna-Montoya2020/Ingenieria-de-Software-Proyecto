@@ -4,7 +4,7 @@ title: "Diferencia de cada Ingenieria"
 author: "Annabelle Montoya"
 categories: journal
 tags: [documentation,sample]
-image:![alt text](https://www.gruponw.com/nwlib6/includes/phpthumb/phpThumb.php?src=/imagenes/programm.png&w=700&f=png.jpg)
+image: https://www.gruponw.com/nwlib6/includes/phpthumb/phpThumb.php?src=/imagenes/programm.png&w=700&f=png.jpg
 
 ---
 
