@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Contacto 
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+SI llega a existir un error o problema en la pagina porfavor contactarse con  [file a GitHub issue](https://github.com/ Anna-Montoya2020/lagrange/issues/new)
