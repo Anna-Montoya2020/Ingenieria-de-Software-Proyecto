@@ -101,8 +101,6 @@ Utilizar las herramientas y técnicas más apropiadas dependiendo
 
     7.  [Modelo en Espiral](#Modelo-en-Espiral)
 
-    8. [Metodología reutilización](#Metodología-reutilización)
-
 5. [Credits](#credits)
  
 
@@ -148,6 +146,8 @@ Algunas actividades genéricas en todos los procesos de software son:
 
 Estas actividades varían dependiendo de la organización y del tipo de sistema a desarrollarse.
 
+![alt text](https://sites.google.com/site/fundamentosdeingendoftware/_/rsrc/1384387789080/u1-fundamentos-ingenieria-de-software/1-3-etapas-del-desarrollo-software/800px-El_modelo_de_desarrollo_en_cascada.svg.png)
+
 ### Atributos de calidad de software?
 
 El software debe proveer la funcionalidad y desempeño requeridos por el usuario y debe ser mantenible, confiable y aceptable:
@@ -159,6 +159,8 @@ El software debe proveer la funcionalidad y desempeño requeridos por el usuario
 * Eficiente: el software no debe desperdiciar los recursos del sistema
 
 * Aceptable: el software debe ser aceptado por los usuarios para los que fue diseñado. Debe ser entendible, utilizable y compatible con otros sistemas.
+
+![alt text](https://sites.google.com/site/portafoliocarlosmacallums/_/rsrc/1494395720950/unidad-ii/introduccionalosestandaresdecalidaddesoftware/Qo2S.jpg)
 
 ### Retos de la Ingeniería de Software
 
@@ -191,6 +193,8 @@ congruentemente con el interés social.
 
 Este Código ha sido redactado por la IEEE‑CS/ACM fuerza unida operante para la Ética y Práctica Professional de la Ingeniería de Software (SEEPP).
 
+
+
 ## Sistemas de información
 
 ### Problemas al desarrollar software
@@ -204,6 +208,8 @@ El software ha superado al hardware como factor decisivo de éxito, actualmente 
   * Avance del hardware y necesidad de aplicaciones más complejas.
   
   * Cambio en la relación entre el coste hardware/software.
+  
+ ![alt text]( https://www.usmp.edu.pe/publicaciones/boletin/fia/info86/articulos/img-articulos/problemasDesarrollioSoftware02.jpg)
 
 ### Crisis del software
 
@@ -223,6 +229,8 @@ El software ha superado al hardware como factor decisivo de éxito, actualmente 
 
 * Carencia de documentación
 
+![alt text](https://2.bp.blogspot.com/-JKVwGz_Mj_0/Tl7DDBW-jbI/AAAAAAAAAE4/TbatYw35THY/s1600/Ev.jpg)
+
 #### Difícultad al desarrollar software
 
 Al momento de desarrollar software pueden existir grandes desafíos:
@@ -237,11 +245,15 @@ Al momento de desarrollar software pueden existir grandes desafíos:
 
 #### Fases de desarrollo de un proyecto
 
+![alt text](https://esquio.es/wp-content/uploads/2017/12/fases-proyecto.png)
+
 Un proyecto desarrollado de forma indisciplinada tiene muchas posibilidades de fracasar
 
-* Problemas de comunicaci´on con el cliente
+* Problemas de comunicación con el cliente
 
-* Problemas de comunicaci´on en el equipo
+* Problemas de comunicación en el equipo
+
+![alt text](https://www.eoi.es/blogs/embacon/files/2014/04/imagen_blog1.jpg)
 
 ### Proyecto software
 
@@ -278,6 +290,8 @@ Proyecto la pauta a seguir para desarrollar un producto
 
 Proceso la pauta a seguir para desarrollar un proyecto
 
+![alt text](https://proyectosguerrilla.com/blog/wp-content/uploads/2013/10/waterfall.png)
+
 #### ¿Qué es software de calidad?
 
 Un software de calidad tiene concordancia con:
@@ -287,6 +301,8 @@ Un software de calidad tiene concordancia con:
  * Los estándares de desarrollo explícitamente documentados 
  
  * Las características implícitas que se espera de todo software desarrollado profesionalmente
+ 
+![alt text](https://zimbronapps.com/wp-content/uploads/2017/11/calidad-de-sotfware.png)
 
 ##### Modelo de calidad McCall
 
@@ -297,6 +313,8 @@ La clasificación de los factores de calidad se centra en tres aspectos importan
   2. Su capacidad de soportar los cambios.
   
   3. Su adaptabilidad a nuevos entornos.
+  
+ ![alt text] (https://vignette.wikia.nocookie.net/modelos-de-evaluacion-de-los-red-grupo-8-udes/images/9/9b/Mccall1.png/revision/latest?cb=20180802212145&path-prefix=es)
   
 ##### Características operativas
 
@@ -333,7 +351,7 @@ La clasificación de los factores de calidad se centra en tres aspectos importan
 El proceso para el desarrollo de software se aplica en el desarrollo de un producto de software. Existen varios modelos para crear un software, cada uno explica los diferentes
 enfoques de las distintas actividades que van a existir durante el proceso. Un modelo del ciclo del software es considerando por un grupo de autores como un término general es decir qué no es un proceso para el desarrollo de software.
 
-
+![alt text](https://www.sg.com.mx/images/stories/200501/principal_1_1.gif)
 
 Los modelos de estos procesos, se enfocan e describir las tareas o actividades que van a tener lugar en el proceso. Un ejemplo que se puede destacar es que hay muchos procesos específicos de desarrollo de software que “ajuste” del modelo del ciclo de vida en espiral. ISO/IEC 12207 es un estándar internacional para los procesos del ciclo de vida del software. Su objetivo es ser el estándar que define todas las tareas necearías para el desarrollo y mantenimiento de software.
 
@@ -345,7 +363,6 @@ Los modelos de estos procesos, se enfocan e describir las tareas o actividades q
    
    4. Evolución: El software debe evolucionar, para adaptarse a las necesidades del cliente
    
-   
 
 Otra perspectiva utilizada para determinar los elementos del proceso de desarrollo de software es establecer las relaciones entre elementos que permitan responder quién debe hacer qué, cuándo y cómo debe hacerlo 
 
@@ -354,6 +371,7 @@ Quién: Las personas participantes en el proyecto de desarrollo desempeñan uno 
 Qué: Un artefacto es producido por un rol en una de sus actividades. Los artefactos se especifican utilizando notaciones específicas. Las herramientas apoyan la elaboración de artefactos soportando ciertas notaciones.
 
 Cómo y Cuándo: Las Actividades son una serie de pasos que lleva a cabo un rol durante el proceso de desarrollo. El avance del proyecto está controlado mediante hitos que establecen un determinado estado de terminación de ciertos artefactos. Estas actividades varían dependiendo de la organización y del tipo de sistema a desarrollarse.
+  
   
   ### Procesos del software 12207
   
@@ -385,6 +403,7 @@ el suministro para proporcionar el producto.
    Proceso empleado para mantener el producto, incluyendo tanto los cambios en el
 propio producto como en su entorno de operación.
 
+![alt text](https://sites.google.com/site/softwaredesignstrikers/_/rsrc/1385578427165/proyectos-software/ciclo-de-vida/software-lifecycle-flow-chart-multicolor-extended.png?height=225&width=400)
 
 
 ## Ciclo de vida del Software
@@ -399,6 +418,8 @@ El marco del ciclo de vida del software cubre desde la conceptuación de las ide
  * Gestionar, controlar y mejorar el marco
  
  * Como base de la referencia para el trabajo e intercambio entre organizaciones de software
+ 
+ ![alt text](https://lh3.googleusercontent.com/UvGkTRWfKbQqoVyaEyhPk-qSBsAfUZqgPgoxfpdmwbEpglkPfG2RAFIWwmlBArJfEdytf27jOYP-OpW7A0zAWhoyJCM6t6AkQZB0BMTKGsmcZunYFRlEz3yPazLGAycLKVtCSK7gIw=w2400)
  
 ### Procesos del ciclo de vida
 
@@ -448,6 +469,8 @@ Requisitos para mantener toda la información relevante acerca de los procesos y
   
 Requisitos para recoger y analizar los datos que soportan objetivamente la calidad de los productos y la gestión efectiva de los procesos.
 
+![alt text](https://www.eoi.es/blogs/embaen/files/2014/04/Macroproceso.jpg)
+
 #### Procesos Organizacionales del proyecto
 
 * Proceso de gestión del modelo de ciclo de vida
@@ -471,6 +494,8 @@ Requisitos para asegurar la cualificación del personal asignado a los procesos 
 * Proceso de gestión de la calidad
 
 Requisitos para alcanzar los objetivos de calidad
+
+![alt text](https://www.atenos.com/img/poyectos/gestion-organizacional-proyectos-procesos-modelo-de-servicio.jpg)
 
 ## Modelos de desarrollo
 
@@ -503,6 +528,8 @@ Etapas que deben cumplirse de forma sucesiva:
 
 La prueba efectiva solo se hace cuando ya está todo diseñado. Presupone que el producto está perfectamente definido antes de iniciar el desarrollo. Cuando se descubren problemas en la fase de mantenimiento sólo cabe adaptar el problema a la aplicación, y no al revés.
 
+![alt text](https://image.slidesharecdn.com/3-130805014147-phpapp02/95/sesin-3-modelos-prescriptivos-de-proceso-4-638.jpg?cb=1375667006)
+
 ### Proceso iterativo
 
 También llamado desarrollo iterativo e incremental. Recomienda la construcción de secciones reducidas de software va a permitir que vaya ganado en su tamaño que va a facilitar
@@ -510,37 +537,45 @@ la detección de errores o problemas antes de que sea demasiado tarde ayudan a d
 Se basa en producir prototipos ejecutables, tangibles y medibles. Facilita la revisión de los problemas desde el comienzo. Teniendo tiempos razonables para resolverlos. En todas
 las fases del desarrollo se presentan prototipos a los clientes lo que va a generar:
 
- El cliente debe estructurar mejor sus deseos
+   El cliente debe estructurar mejor sus deseos
 
- El cliente proporciona información al proyecto y asume su responsabilidad
+   El cliente proporciona información al proyecto y asume su responsabilidad
 
- Los equipos buscan objetivos tangibles
+   Los equipos buscan objetivos tangibles
+ 
+   La integración es de forma progresiva
 
- La integración es de forma progresiva
-
- Se evalúan los procesos de sistemas demostrables
+   Se evalúan los procesos de sistemas demostrables
+  
+  ![alt text](https://4.bp.blogspot.com/-JPTk7lFWqJM/UE9ej0ONpvI/AAAAAAAAADk/OaATIcjpm-Y/s1600/ModeloIterativol_grafica.jpg)
 
 En el ciclo de vida iterativo reproduce el ciclo de vida en cascada, pero en este los objetivos son más sencillos.
 
- Planificación: Se elabora en función del estudio de riesgos de los resultados previos.
+   Planificación: Se elabora en función del estudio de riesgos de los resultados previos.
 
- Análisis: Estudia los casos de uso y los escenarios a realizar. Se descubren nuevas clases y asociaciones.
+   Análisis: Estudia los casos de uso y los escenarios a realizar. Se descubren nuevas clases y asociaciones.
 
- Diseño: Se estudian las opciones necesarias para realizar la iteración. Si se necesita se retoca la arquitectura.
+   Diseño: Se estudian las opciones necesarias para realizar la iteración. Si se necesita se retoca la arquitectura.
 
- Codificación y pruebas: Se codifica el nuevo código y se integra con el resultante de iteraciones anteriores.
+   Codificación y pruebas: Se codifica el nuevo código y se integra con el resultante de iteraciones anteriores.
 
- Evaluación del prototipo parcial: Los resultados se evalúan respecto a los criterios definidos para la iteración.
+   Evaluación del prototipo parcial: Los resultados se evalúan respecto a los criterios definidos para la iteración.
 
- Documentación del prototipo: Se congela y documenta el conjunto de elementos del prototipo obtenido. 
+   Documentación del prototipo: Se congela y documenta el conjunto de elementos del prototipo obtenido. 
 
 Suele atribuir que fomenta la generación ilimitada de requerimientos por parte de los clientes y usuarios. No importa que procedimiento de desarrollo se use, las necesidades
 siempre aparecen cuando el cliente se enfrenta con la aplicación. Cuanto mejor esté elaborada la fase de especificación, generarán menos nuevos requerimientos.
 
+![alt text](https://miro.medium.com/max/5796/1*yuTxCxVJ-VxUsbzs6R_ZaA.png)
+
 ### Prototipado
+
+![alt text](https://www.monografias.com/trabajos104/ingenieria-del-software-concepto/img17.png)
 
 Se implementa un prototipo software después de varias iteraciones de PrototipadoEvaluación y se tiene la intención de empezar a ver realmente cómo responde el sistema. En
 primer lugar, debemos tener presente que lo que más nos interesa es probar los aspectos relacionados con la interacción del usuario con el sistema, no se trata, pues, de utilizar parte del desarrollo que se está realizando, sino que es una aplicación con la funcionalidad mínima necesaria para que el usuario pueda realizar las interacciones necesarias que permitan visionar el funcionamiento todavía ficticio del sistema resultante. Clases de prototipos el desechable y el evolucionario. El desechable: nos sirve para eliminar dudas sobre lo que realmente quiere el cliente además para desarrollar la interfaz que más le convenga al cliente. El evolucionario: es un modelo parcialmente construido que puede pasar de ser prototipo a ser software pero no tiene una buena documentación y calidad.
+
+![alt text](https://www.ecured.cu/images/7/74/Mprototipo.png)
 
 ### Componentes
 
@@ -559,6 +594,8 @@ desarrollo y el mayor retorno sobre una inversión. Los sistemas de hoy en día 
 
 • Documentado: Los usuarios deben conocer si satisfacen las necesidades ISBC.
 
+![alt text](https://matriarm.files.wordpress.com/2009/12/untitled2.jpg)
+
 ### Metodología ágil
 
 Muchos métodos ágiles argumentan que la producción de un documento de requisitos
@@ -569,6 +606,8 @@ negocios, pero problemático para los sistemas que requieren una gran cantidad d
 previo a la entrega (por ejemplo, sistemas críticos) o sistemas desarrollados por varios
 equipos.
 
+![alt text](https://lh3.googleusercontent.com/gkslmVS7F0awJSuvQJ4EisFZIUtnAjJboenfmLZ6JOLi8yc2MAhB1YzbtKZlYBub73ULm7757uTcO4-I5efX1WkUPd0Hpx_5g3tXWG9S46qi3BFgfhBZXO0L90Y9iJOpVdUhL5A)
+
 #### Paradigma de Desarrollo Ágil:
 Es un paradigma de las Metodologías De Desarrollo basado en procesos ágiles. Estos
 intentan evitar los tediosos caminos de las metodologías tradicionales enfocándose en las
@@ -578,13 +617,13 @@ colaborando con el cliente e incorporando los cambios continuamente. (wearemarke
 
 Principios agrupado en cuatro (04) valores fundamentales:
 
- Individuos e interacciones sobre procesos y herramientas.
+   Individuos e interacciones sobre procesos y herramientas.
 
- Software funcionando sobre documentación extensiva.
+   Software funcionando sobre documentación extensiva.
 
- Colaboración con el cliente sobre negociación contractual.
+   Colaboración con el cliente sobre negociación contractual.
 
- Respuesta ante el cambio sobre seguir un plan
+   Respuesta ante el cambio sobre seguir un plan
 
 ### Orientada a objetos
 
@@ -600,6 +639,8 @@ características individuales que diferencian a un objeto de otro (ambos de la m
 determinan la apariencia, estado u otras cualidades de ese objeto. Los atributos de un objeto
 incluyen información sobre su estado
 
+![alt text](https://image.slidesharecdn.com/anlisis-final-100825163628-phpapp01/95/desarrollo-de-software-orienta-a-objetos-6-728.jpg?cb=1282754285)
+
 ### Modelo en Espiral
 
 Proceso se representa como una espiral en lugar de como una secuencia de actividades
@@ -610,31 +651,21 @@ proceso.
 
 Establecimiento de objetivos
 
- Se identifican los objetivos específicos para la fase.
+   Se identifican los objetivos específicos para la fase.
 
- La evaluación de riesgos y la reducción de
+   La evaluación de riesgos y la reducción de
 
- Los riesgos son evaluados y las actividades puestas en marcha para reducir los
+   Los riesgos son evaluados y las actividades puestas en marcha para reducir los
 riesgos clave.
 
- Desarrollo y validación
+   Desarrollo y validación
 
- Planificación
+   Planificación
 
- El proyecto es revisado y se ha previsto la siguiente fase de la espiral.
-
-### Metodología reutilización
-
-Es el proceso de creación de sistemas de software a partir de un software existente, en
-lugar de tener que re-diseñar desde el principio. El empleo de elementos de software u otros
-de nivel superior, creados en desarrollo anteriores, para de este modo reducir los tiempos y
-simplificar el desarrollo del software, mejorando la calidad y reduciendo su costo. La
-reutilización de software aparece como una alternativa para desarrollar aplicaciones y
-sistemas Software de una manera más eficiente, productiva y rápida. (efrenca.blogspo, 2008)
-La idea es reutilizar elementos y componentes Software en lugar de tener que
-desarrollarlos desde un principio. La idea principal era producir componentes de software
-como si de componentes eléctricos se tratara. El objetivo es reutilizar lo existente sin tener
-que volver a re-diseñarlo desde el principio. (biblioteca, 2008)
+   El proyecto es revisado y se ha previsto la siguiente fase de la espiral.
+  
+  ![alt text](https://ingsoftware.weebly.com/uploads/2/3/8/2/23822483/3184429_orig.jpg)
+  
 
 ## Credits
 
