@@ -314,7 +314,7 @@ La clasificación de los factores de calidad se centra en tres aspectos importan
   
   3. Su adaptabilidad a nuevos entornos.
   
- ![alt text] (https://vignette.wikia.nocookie.net/modelos-de-evaluacion-de-los-red-grupo-8-udes/images/9/9b/Mccall1.png/revision/latest?cb=20180802212145&path-prefix=es)
+ ![alt text](https://vignette.wikia.nocookie.net/modelos-de-evaluacion-de-los-red-grupo-8-udes/images/9/9b/Mccall1.png/revision/latest?cb=20180802212145&path-prefix=es)
   
 ##### Características operativas
 
@@ -537,31 +537,31 @@ la detección de errores o problemas antes de que sea demasiado tarde ayudan a d
 Se basa en producir prototipos ejecutables, tangibles y medibles. Facilita la revisión de los problemas desde el comienzo. Teniendo tiempos razonables para resolverlos. En todas
 las fases del desarrollo se presentan prototipos a los clientes lo que va a generar:
 
-   El cliente debe estructurar mejor sus deseos
+  * El cliente debe estructurar mejor sus deseos
 
-   El cliente proporciona información al proyecto y asume su responsabilidad
+  * El cliente proporciona información al proyecto y asume su responsabilidad
 
-   Los equipos buscan objetivos tangibles
+  * Los equipos buscan objetivos tangibles
  
-   La integración es de forma progresiva
+  * La integración es de forma progresiva
 
-   Se evalúan los procesos de sistemas demostrables
+  * Se evalúan los procesos de sistemas demostrables
   
   ![alt text](https://4.bp.blogspot.com/-JPTk7lFWqJM/UE9ej0ONpvI/AAAAAAAAADk/OaATIcjpm-Y/s1600/ModeloIterativol_grafica.jpg)
 
 En el ciclo de vida iterativo reproduce el ciclo de vida en cascada, pero en este los objetivos son más sencillos.
 
-   Planificación: Se elabora en función del estudio de riesgos de los resultados previos.
+  * Planificación: Se elabora en función del estudio de riesgos de los resultados previos.
 
-   Análisis: Estudia los casos de uso y los escenarios a realizar. Se descubren nuevas clases y asociaciones.
+  * Análisis: Estudia los casos de uso y los escenarios a realizar. Se descubren nuevas clases y asociaciones.
 
-   Diseño: Se estudian las opciones necesarias para realizar la iteración. Si se necesita se retoca la arquitectura.
+  * Diseño: Se estudian las opciones necesarias para realizar la iteración. Si se necesita se retoca la arquitectura.
 
-   Codificación y pruebas: Se codifica el nuevo código y se integra con el resultante de iteraciones anteriores.
+  * Codificación y pruebas: Se codifica el nuevo código y se integra con el resultante de iteraciones anteriores.
 
-   Evaluación del prototipo parcial: Los resultados se evalúan respecto a los criterios definidos para la iteración.
+  * Evaluación del prototipo parcial: Los resultados se evalúan respecto a los criterios definidos para la iteración.
 
-   Documentación del prototipo: Se congela y documenta el conjunto de elementos del prototipo obtenido. 
+  * Documentación del prototipo: Se congela y documenta el conjunto de elementos del prototipo obtenido. 
 
 Suele atribuir que fomenta la generación ilimitada de requerimientos por parte de los clientes y usuarios. No importa que procedimiento de desarrollo se use, las necesidades
 siempre aparecen cuando el cliente se enfrenta con la aplicación. Cuanto mejor esté elaborada la fase de especificación, generarán menos nuevos requerimientos.
@@ -570,12 +570,10 @@ siempre aparecen cuando el cliente se enfrenta con la aplicación. Cuanto mejor 
 
 ### Prototipado
 
-![alt text](https://www.monografias.com/trabajos104/ingenieria-del-software-concepto/img17.png)
-
 Se implementa un prototipo software después de varias iteraciones de PrototipadoEvaluación y se tiene la intención de empezar a ver realmente cómo responde el sistema. En
 primer lugar, debemos tener presente que lo que más nos interesa es probar los aspectos relacionados con la interacción del usuario con el sistema, no se trata, pues, de utilizar parte del desarrollo que se está realizando, sino que es una aplicación con la funcionalidad mínima necesaria para que el usuario pueda realizar las interacciones necesarias que permitan visionar el funcionamiento todavía ficticio del sistema resultante. Clases de prototipos el desechable y el evolucionario. El desechable: nos sirve para eliminar dudas sobre lo que realmente quiere el cliente además para desarrollar la interfaz que más le convenga al cliente. El evolucionario: es un modelo parcialmente construido que puede pasar de ser prototipo a ser software pero no tiene una buena documentación y calidad.
 
-![alt text](https://www.ecured.cu/images/7/74/Mprototipo.png)
+![alt text](https://www.monografias.com/trabajos104/ingenieria-del-software-concepto/img17.png)
 
 ### Componentes
 
