@@ -4,7 +4,7 @@ title: "Bienvenidos al Blog de Ingenieria de Software"
 author: "Annabelle Montoya"
 categories: journal
 tags: [documentation,sample]
-imagen:![alt text](https://blog.infaimon.com/wp-content/uploads/2018/01/iStock-843016322.jpg)
+imagen:https://blog.infaimon.com/wp-content/uploads/2018/01/iStock-843016322.jpg
 ---
 
 La creación del software es un proceso intrínsecamente creativo y la ingeniería del software trata de sistematizar este proceso con el fin de acotar el riesgo del fracaso en la consecución del objetivo creativo por medio de diversas técnicas que se han demostrado adecuadas en base a la experiencia previa.
