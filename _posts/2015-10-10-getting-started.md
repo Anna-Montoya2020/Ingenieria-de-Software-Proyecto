@@ -4,7 +4,7 @@ title: "Ingenieria de Software"
 author: "Annabelle Montoya"
 categories: journal
 tags: [documentation,sample]
-image: ingeni.jpg
+image:https://www.monografias.com/trabajos102/ingenieria-del-software/image001.jpg
 ---
 
 # Ingenieria Software
@@ -23,6 +23,7 @@ Utilizar las herramientas y técnicas más apropiadas dependiendo
      
  * Recursos disponibles
 
+![alt text](https://www.unitec.mx/wp-content/uploads/2017/08/ingenieria-software-redes-unitec-1h.jpg)
 
 ## Tabla de contenido
 
@@ -73,22 +74,34 @@ Utilizar las herramientas y técnicas más apropiadas dependiendo
    
    1.[Procesos del ciclo de vida](#Proceso-del-ciclo-de-vida)
 
-      1.Proceso del proyecto
+      1.[Proceso del proyecto](#Proceso-del-proyecto)
 
-      2.Procesos Organizacionales del proyecto
+      2.[Procesos Organizacionales del proyecto](#Procesos-Organizacionales-del-proyecto)
 
 
-3. [Modelos de desarrollo: tradicionales vs alternativos](#Modelos-de-desarrollo:-tradicionales-vs-alternativos)
+3. [Modelos de desarrollo](#Modelos-de-desarrollo)
    
-   1.
+    1. [Procesos de cascada](#Procesos_de-cascada)
 
-   2.
+      * [Problemas del proceso en cascada](#Problemas-del-proceso-en-cascada)
 
-   3.
+    2. [Proceso iterativo](#Proceso-iterativo)
 
-   4.
+    3. [Prototipo](#Prototipo)
 
-   5.
+    4. [Componentes](#Componentes)
+
+      * [Características del Componentes](#Características-del-Componentes)
+
+    5. [Metodología ágil](#Metodología-ágil)
+
+      * [Paradigma de Desarrollo Ágil:](#Paradigma-de-Desarrollo-Ágil)
+
+    6. [Orientada a objetos](#Orientada-a-objetos)
+
+    7.  [Modelo en Espiral](#Modelo-en-Espiral)
+
+    8. [Metodología reutilización](#Metodología-reutilización)
 
 5. [Credits](#credits)
  
@@ -459,100 +472,95 @@ Requisitos para asegurar la cualificación del personal asignado a los procesos 
 
 Requisitos para alcanzar los objetivos de calidad
 
-## Modelos de desarrollo: tradicionales vs alternativos
+## Modelos de desarrollo
 
 Son un representación abstracta, no representan como se debe desarrollar el software,
 es un enfoque común. Es modificado y adaptado de acuerdo a las necesidades del software en
 procesos de desarrollo, estas cuentas con pros y contras. Se escoge el más apropiado para su
 desarrollo. Algunas veces pueden existir combinaciones de varios modelos.
-1. Proceso de cascada
-Las etapas en el modelo de cascada se deberán cumplir de forma sucesiva y de forma
-estricta, antes de ir a la siguiente fase se tendrá que hacer una revisión lo que va a permitir
-incluir un proceso de control para los posibles cambios.
+
+### Proceso de cascada
+
+Las etapas en el modelo de cascada se deberán cumplir de forma sucesiva y de forma estricta, antes de ir a la siguiente fase se tendrá que hacer una revisión lo que va a permitir incluir un proceso de control para los posibles cambios.
 
 Etapas que deben cumplirse de forma sucesiva:
+
 1. Especificación de requisitos
+
 2. Diseño del software
+
 3. Construcción o Implementación del software
+
 4. Integración
+
 5. Pruebas (o validación)
+
 6. Despliegue (o instalación)
+
 7. Mantenimiento
 
-### Problemas del proceso en cascada.
+#### Problemas del proceso en cascada.
 
-La prueba efectiva solo se hace cuando ya está todo diseñado. Presupone que el
-producto está perfectamente definido antes de iniciar el desarrollo. Cuando se descubren
-problemas en la fase de mantenimiento sólo cabe adaptar el problema a la aplicación, y no al
-revés.
+La prueba efectiva solo se hace cuando ya está todo diseñado. Presupone que el producto está perfectamente definido antes de iniciar el desarrollo. Cuando se descubren problemas en la fase de mantenimiento sólo cabe adaptar el problema a la aplicación, y no al revés.
 
-Proceso iterativo
-También llamado desarrollo iterativo e incremental. Recomienda la construcción de
-secciones reducidas de software va a permitir que vaya ganado en su tamaño que va a facilitar
-la detección de errores o problemas antes de que sea demasiado tarde ayudan a desvelar
-metas de diseño en el caso de clientes que no tiene claras sus ideas y lo que desean.
-Se basa en producir prototipos ejecutables, tangibles y medibles. Facilita la revisión
-de los problemas desde el comienzo. Teniendo tiempos razonables para resolverlos. En todas
+### Proceso iterativo
+
+También llamado desarrollo iterativo e incremental. Recomienda la construcción de secciones reducidas de software va a permitir que vaya ganado en su tamaño que va a facilitar
+la detección de errores o problemas antes de que sea demasiado tarde ayudan a desvelar metas de diseño en el caso de clientes que no tiene claras sus ideas y lo que desean.
+Se basa en producir prototipos ejecutables, tangibles y medibles. Facilita la revisión de los problemas desde el comienzo. Teniendo tiempos razonables para resolverlos. En todas
 las fases del desarrollo se presentan prototipos a los clientes lo que va a generar:
+
  El cliente debe estructurar mejor sus deseos
+
  El cliente proporciona información al proyecto y asume su responsabilidad
+
  Los equipos buscan objetivos tangibles
+
  La integración es de forma progresiva
+
  Se evalúan los procesos de sistemas demostrables
-En el ciclo de vida iterativo reproduce el ciclo de vida en cascada, pero en este los
-objetivos son más sencillos.
+
+En el ciclo de vida iterativo reproduce el ciclo de vida en cascada, pero en este los objetivos son más sencillos.
+
  Planificación: Se elabora en función del estudio de riesgos de los resultados previos.
- Análisis: Estudia los casos de uso y los escenarios a realizar. Se descubren nuevas
-clases y asociaciones.
- Diseño: Se estudian las opciones necesarias para realizar la iteración. Si se necesita se
-retoca la arquitectura.
- Codificación y pruebas: Se codifica el nuevo código y se integra con el resultante de
-iteraciones anteriores.
- Evaluación del prototipo parcial: Los resultados se evalúan respecto a los criterios
-definidos para la iteración.
- Documentación del prototipo: Se congela y documenta el conjunto de elementos del
-prototipo obtenido. 
 
-Suele atribuir que fomenta la generación ilimitada de requerimientos por parte de los
-clientes y usuarios. No importa que procedimiento de desarrollo se use, las necesidades
-siempre aparecen cuando el cliente se enfrenta con la aplicación. Cuanto mejor esté elaborada
-la fase de especificación, generarán menos nuevos requerimientos.
-3. Prototipado
+ Análisis: Estudia los casos de uso y los escenarios a realizar. Se descubren nuevas clases y asociaciones.
+
+ Diseño: Se estudian las opciones necesarias para realizar la iteración. Si se necesita se retoca la arquitectura.
+
+ Codificación y pruebas: Se codifica el nuevo código y se integra con el resultante de iteraciones anteriores.
+
+ Evaluación del prototipo parcial: Los resultados se evalúan respecto a los criterios definidos para la iteración.
+
+ Documentación del prototipo: Se congela y documenta el conjunto de elementos del prototipo obtenido. 
+
+Suele atribuir que fomenta la generación ilimitada de requerimientos por parte de los clientes y usuarios. No importa que procedimiento de desarrollo se use, las necesidades
+siempre aparecen cuando el cliente se enfrenta con la aplicación. Cuanto mejor esté elaborada la fase de especificación, generarán menos nuevos requerimientos.
+
+### Prototipado
+
 Se implementa un prototipo software después de varias iteraciones de PrototipadoEvaluación y se tiene la intención de empezar a ver realmente cómo responde el sistema. En
-primer lugar, debemos tener presente que lo que más nos interesa es probar los aspectos
-relacionados con la interacción del usuario con el sistema, no se trata, pues, de utilizar parte
-del desarrollo que se está realizando, sino que es una aplicación con la funcionalidad mínima
-necesaria para que el usuario pueda realizar las interacciones necesarias que permitan
-visionar el funcionamiento todavía ficticio del sistema resultante
-Clases de prototipos el desechable y el evolucionario.
-El desechable: nos sirve para eliminar dudas sobre lo que realmente quiere el cliente además
-para desarrollar la interfaz que más le convenga al cliente.
-El evolucionario: es un modelo parcialmente construido que puede pasar de ser prototipo a
-ser software pero no tiene una buena documentación y calidad.
+primer lugar, debemos tener presente que lo que más nos interesa es probar los aspectos relacionados con la interacción del usuario con el sistema, no se trata, pues, de utilizar parte del desarrollo que se está realizando, sino que es una aplicación con la funcionalidad mínima necesaria para que el usuario pueda realizar las interacciones necesarias que permitan visionar el funcionamiento todavía ficticio del sistema resultante. Clases de prototipos el desechable y el evolucionario. El desechable: nos sirve para eliminar dudas sobre lo que realmente quiere el cliente además para desarrollar la interfaz que más le convenga al cliente. El evolucionario: es un modelo parcialmente construido que puede pasar de ser prototipo a ser software pero no tiene una buena documentación y calidad.
 
-Componentes
-Permite reutilizar piezas de código pre elaborado permiten realizar diversas tareas,
-conllevando a diversos beneficios como las mejoras a la calidad, la reducción del ciclo de
-desarrollo y el mayor retorno sobre una inversión. Los sistemas de hoy en día son cada vez
-más complejos, deben ser construidos en tiempo récord y deben cumplir con los estándares
-más altos de calidad, en el diseño y construcción de sistemas computacionales que utilizan
-componentes de software reutilizables.
-El objetivo de la tecnología de componentes software es construir aplicaciones complejas
-mediante ensamblado de módulos (componentes) que han sido previamente diseñados por
-otras personas a fin de ser rehusados en múltiples aplicaciones. La arquitectura
-software de una aplicación basada en componentes consiste en uno o un número pequeño de
-componentes específicos de la aplicación (que se diseñan específicamente para ella), que
-hacen uso de otros muchos componentes prefabricados que se ensamblan entre sí para
-proporcionar los servicios que se necesitan en la aplicación
+### Componentes
 
-Características del Componente
+Permite reutilizar piezas de código pre elaborado permiten realizar diversas tareas, conllevando a diversos beneficios como las mejoras a la calidad, la reducción del ciclo de
+desarrollo y el mayor retorno sobre una inversión. Los sistemas de hoy en día son cada vez más complejos, deben ser construidos en tiempo récord y deben cumplir con los estándares más altos de calidad, en el diseño y construcción de sistemas computacionales que utilizan componentes de software reutilizables. El objetivo de la tecnología de componentes software es construir aplicaciones complejas mediante ensamblado de módulos (componentes) que han sido previamente diseñados por otras personas a fin de ser rehusados en múltiples aplicaciones. La arquitectura software de una aplicación basada en componentes consiste en uno o un número pequeño de componentes específicos de la aplicación (que se diseñan específicamente para ella), que hacen uso de otros muchos componentes prefabricados que se ensamblan entre sí para proporcionar los servicios que se necesitan en la aplicación
+
+#### Características del Componente
+
 • Estandarizados: Tiene que ajustarse al estándar
+
 • Independiente: Debe componerse y desplegarse sin necesidad de otros
+
 • Componible: Debe tener interacciones externas con interfaces definidas
+
 • Desplegable: Debe ser capaz de funcionar con autonomía no compilarse
+
 • Documentado: Los usuarios deben conocer si satisfacen las necesidades ISBC.
 
-Metodología ágil
+### Metodología ágil
+
 Muchos métodos ágiles argumentan que la producción de un documento de requisitos
 es una pérdida de tiempo que los requisitos cambian tan rápidamente. El documento es, por
 tanto, siempre actualizado. Métodos como XP utilizan requisitos adicionales de ingeniería y
@@ -560,7 +568,8 @@ requisitos expresos como "historias de usuario. Esto es práctico para los siste
 negocios, pero problemático para los sistemas que requieren una gran cantidad de análisis
 previo a la entrega (por ejemplo, sistemas críticos) o sistemas desarrollados por varios
 equipos.
-Paradigma de Desarrollo Ágil:
+
+#### Paradigma de Desarrollo Ágil:
 Es un paradigma de las Metodologías De Desarrollo basado en procesos ágiles. Estos
 intentan evitar los tediosos caminos de las metodologías tradicionales enfocándose en las
 personas y los resultados. Usa un enfoque basado en el Valor para construir software,
@@ -568,39 +577,54 @@ colaborando con el cliente e incorporando los cambios continuamente. (wearemarke
 2000)
 
 Principios agrupado en cuatro (04) valores fundamentales:
+
  Individuos e interacciones sobre procesos y herramientas.
+
  Software funcionando sobre documentación extensiva.
+
  Colaboración con el cliente sobre negociación contractual.
+
  Respuesta ante el cambio sobre seguir un plan
 
-Orientada a objetos
+### Orientada a objetos
+
 Cuando se escribe un programa en lenguaje orientado a objetos, no se definen objetos
 verdaderos sino se definen clases de objetos. Una instancia de una clase es otro término para
 un objeto real. Si la clase es la representación general de un objeto, una instancia es su
 representación concreta. A menudo se utiliza indistintamente la palabra objeto o instancia
 para referirse, precisamente, a un objeto.
+
 En los lenguajes orientados a objetos, cada clase está compuesta de dos
 cualidades: atributos (estado) y métodos (comportamiento o conducta). Los atributos son las
 características individuales que diferencian a un objeto de otro (ambos de la misma clase) y
 determinan la apariencia, estado u otras cualidades de ese objeto. Los atributos de un objeto
 incluyen información sobre su estado
 
-Modelo en Espiral
+### Modelo en Espiral
+
 Proceso se representa como una espiral en lugar de como una secuencia de actividades
 con retroceso, cada bucle en la espiral representa una fase en el proceso, no hay fases fijas
 tales como las especificaciones o el diseño - bucles en la espiral se eligen en función de lo
 que se requiere. Los riesgos son evaluados de forma explícita y se resolvieron durante todo el
 proceso.
+
 Establecimiento de objetivos
+
  Se identifican los objetivos específicos para la fase.
+
  La evaluación de riesgos y la reducción de
+
  Los riesgos son evaluados y las actividades puestas en marcha para reducir los
 riesgos clave.
+
  Desarrollo y validación
+
  Planificación
+
  El proyecto es revisado y se ha previsto la siguiente fase de la espiral.
 
-Metodología reutilización
+### Metodología reutilización
+
 Es el proceso de creación de sistemas de software a partir de un software existente, en
 lugar de tener que re-diseñar desde el principio. El empleo de elementos de software u otros
 de nivel superior, creados en desarrollo anteriores, para de este modo reducir los tiempos y
@@ -611,6 +635,7 @@ La idea es reutilizar elementos y componentes Software en lugar de tener que
 desarrollarlos desde un principio. La idea principal era producir componentes de software
 como si de componentes eléctricos se tratara. El objetivo es reutilizar lo existente sin tener
 que volver a re-diseñarlo desde el principio. (biblioteca, 2008)
+
 ## Credits
 
 ### Creator
